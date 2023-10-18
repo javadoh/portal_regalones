@@ -1,0 +1,6 @@
+[2019-09-05 22:51:45] [INFO ] INFO: initTransaction - amount: 51990, sessionId: 5d71918137232, buyOrder: 22, txDate: 05-09-2019, txTime: 22:51:45
+[2019-09-05 22:51:46] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e0a6bb4fb1b5aff5adf8550b2066fe0bfe3f92ce09aed346309991458d477954","url":"https:\/\/webpay3gint.transbank.cl\/webpayserver\/initTransaction"}
+[2019-09-05 22:53:51] [INFO ] INFO: getTransactionResult - tokenWs: e0a6bb4fb1b5aff5adf8550b2066fe0bfe3f92ce09aed346309991458d477954
+[2019-09-05 23:07:01] [INFO ] INFO: initTransaction - amount: 51990, sessionId: 5d71951528d23, buyOrder: 25, txDate: 05-09-2019, txTime: 23:07:01
+[2019-09-05 23:07:02] [INFO ] INFO: initTransaction - initResult: {"return":null,"token":"e05d5201a309c898739cabe6d029cdcd8b85f5cd00bc50fa734dd86b23ced3b1","url":"https:\/\/webpay3gint.transbank.cl\/webpayserver\/initTransaction"}
+[2019-09-05 23:08:26] [INFO ] INFO: getTransactionResult - tokenWs: e05d5201a309c898739cabe6d029cdcd8b85f5cd00bc50fa734dd86b23ced3b1
